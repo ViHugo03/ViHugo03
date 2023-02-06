@@ -1,14 +1,7 @@
+##   Olá, Seja Bem-Vindo 👍
 
-<div>
-        <center>
-            <H1>
-                Olá, Seja Bem-Vindo
-            </H1>
-        </center>
-</div>
-
- <br># Brasileiro, 19 anos
- <br># Cursando Ciencia da Computação - 3/8 Semestres --> [SPTech](https://www.sptech.school)   
+<br># Brasileiro, 19 anos
+<br># 💻Cursando Ciencia da Computação - 3/8 Semestres --> [SPTech](https://www.sptech.school)   
     
 <div  >
        
@@ -24,4 +17,9 @@
                this.languages = "Java, JavaScript, SQL, Python";
             }
          }
+</div>
+
+<div>
+<a href="https://github.com/ViHugo03">
+   <img height ="180px" src="https://github-readme-stats.vercel.app/api?username=ViHugo03&show_icons=true&theme=highcontrast">
 </div>
