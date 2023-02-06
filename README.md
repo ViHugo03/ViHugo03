@@ -1,3 +1,4 @@
+
 <div>
         <center>
             <H1>
@@ -6,13 +7,9 @@
         </center>
 </div>
 
-<div>
-  <center>
-    <p>
-     # Brasileiro, 19 anos
-     # Cursando Ciencia da Computação - 3/8 Semestres --> [SPTech](https://www.sptech.school/)
-  </center>
-  </div>
+ <br># Brasileiro, 19 anos
+ <br># Cursando Ciencia da Computação - 3/8 Semestres --> [SPTech](https://sptech.school)   
+    
 <div  >
        
          public class Victor_Hugo {
