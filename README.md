@@ -12,14 +12,15 @@
            
             public Victor_Hugo() {
                this.name = "Victor Hugo Marques do Nascimento";
-               this.onesentence = "When you encounter an obstacle, don't stop, overcome it, "
-               + "believe me, the reward behind it is always worth the effort";
+               this.onesentence = "When you encounter an obstacle, don't stop, overcome it,"
+               + " believe me, the reward behind it is always worth the effort";
                this.languages = "Java, JavaScript, SQL, Python";
             }
          }
 </div>
 
-<div>
+<div aling="left">
 <a href="https://github.com/ViHugo03">
-   <img height ="180px" src="https://github-readme-stats.vercel.app/api?username=ViHugo03&show_icons=true&theme=highcontrast">
+   <img height ="200em" src="https://github-readme-stats.vercel.app/api?username=ViHugo03&show_icons=true&theme=highcontrast">
+   <img height ="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViHugo03">
 </div>
