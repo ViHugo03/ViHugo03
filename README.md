@@ -55,5 +55,6 @@
    <img height ="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViHugo03&show_icons=true&theme=radical">
 </div>
  
-    
+  ![Snake animation](https://github.com/ViHugo03/ViHugo03/blob/output/github-contribution-grid-snake.svg)
+  
     
