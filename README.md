@@ -49,7 +49,7 @@
 
 ## GitHub Estatísticas
 
-<div aling="left">
+<div>
 <a href="https://github.com/ViHugo03">
    <img height ="200em" src="https://github-readme-stats.vercel.app/api?username=ViHugo03&show_icons=true&theme=radical">
    <img height ="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViHugo03&show_icons=true&theme=radical">
