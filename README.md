@@ -47,11 +47,11 @@
   <img height ="50em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 </div>
 
-## GitHub Estatísticas
-
+<!-- ## GitHub Estatísticas -->
+<!-- 
 <div>
 <a href="https://github.com/ViHugo03">
    <img height ="200em" src="https://github-readme-stats.vercel.app/api?username=ViHugo03&show_icons=true&theme=radical">
    <img height ="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViHugo03&show_icons=true&theme=radical">
-</div>
+</div> -->
  
