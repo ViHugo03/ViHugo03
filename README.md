@@ -13,7 +13,7 @@
             public Victor_Hugo() {
                this.name = "Victor Hugo Marques do Nascimento";
                this.onesentence = "When you encounter an obstacle, don't stop, overcome it,"
-               + " believe me, the reward behind it is always worth the effort";
+               + " Believe me, in the end the reward will be worth the effort";
                this.languages = "Java, JavaScript, SQL, Python, React, HTML, CSS";
             }
          }
