@@ -1,7 +1,7 @@
 ##   Olá, Seja Bem-Vindo 😃
 
 <br># Brasileiro, 19 anos
-<br># 💻Cursando Ciencia da Computação - 3/8 Semestres --> [SPTech](https://www.sptech.school)   
+<br># 💻Cursando Ciencia da Computação - 4/8 Semestres --> [SPTech](https://www.sptech.school)   
     
 <div  >
        
