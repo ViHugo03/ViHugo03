@@ -50,7 +50,7 @@
 ## GitHub Estatísticas
  
 <div>
-<a href="https://githb.com/ViHugo03">
+<a href="https://github.com/ViHugo03">
    <img height ="200em" src="https://github-readme-stats.vercel.app/api?username=ViHugo03&show_icons=true&theme=radical">
    <img height ="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViHugo03&show_icons=true&theme=radical">
 </div>
