@@ -14,7 +14,7 @@
                this.name = "Victor Hugo Marques do Nascimento";
                this.onesentence = "When you encounter an obstacle, don't stop, overcome it,"
                + " Believe me, in the end the reward will be worth the effort";
-               this.languages = "Java, JavaScript, SQL, Python, React, HTML, CSS";
+               this.languages = "Java, Apex, JavaScript, SQL, Python, React, HTML, CSS";
             }
          }
 </div>
