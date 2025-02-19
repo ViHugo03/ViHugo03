@@ -1,7 +1,7 @@
 ##   Olá, Seja Bem-Vindo 😃
 
 <br># Brasileiro, de 2003
-<br># 💻Cursando Ciencia da Computação - 6/8 Semestres --> [SPTech](https://www.sptech.school)   
+<br># 💻Cursando Ciencia da Computação - 7/8 Semestres --> [SPTech](https://www.sptech.school)   
     
 <div  >
        
