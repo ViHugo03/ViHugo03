@@ -35,6 +35,7 @@
   <img height ="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img height ="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
   <img height ="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height ="40em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apex/apex-original.svg" />
 </div>
 
 ## Ferramentas:
